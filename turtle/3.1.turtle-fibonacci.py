@@ -57,7 +57,7 @@ def plot_fibo():
     x.setheading(0)
     x.pendown()
 
-    # Colour of the plotting pen to blue
+    # Colour of the plotting pen to red
     x.pencolor("blue")
 
     # Fibonacci Spiral Plot
